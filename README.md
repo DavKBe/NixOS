@@ -1,12 +1,18 @@
 # NixOS
 
-Editer une configuaration
-  sudo nano /etc/nixos/configuration.nix
+--->>> Editer une configuration
 
-Mettre à jour le système
-  sudo nixos-rebuild switch
-  ou
-  sudo nixos-rebuild switch && reboot
+sudo nano /etc/nixos/configuration.nix
+
+
+
+--->>> Mettre à jour le système
+
+sudo nixos-rebuild switch
+
+ou
+
+sudo nixos-rebuild switch && reboot
 
 ___________________________________________________________________________________________________________
 
