@@ -33,3 +33,7 @@ https://nokomprendo.gitlab.io/posts/tuto_fonctionnel_45/2020-11-09-fr-README.htm
 Organiser les flakes
 
 https://www.reddit.com/r/NixOS/comments/1e95b69/how_do_you_guys_organize_your_nix_config_files_i/?tl=fr&rdt=35850
+
+Problème avec Vivaldi
+
+https://github.com/NixOS/nixpkgs/issues/309056
