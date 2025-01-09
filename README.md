@@ -18,6 +18,10 @@ ________________________________________________________________________________
 
 Ressources:
 
+Packages NixOS
+
+https://search.nixos.org/packages
+
 Tutos fonctionnels
 
 https://nokomprendo.gitlab.io/posts/tuto_fonctionnel_45/2020-11-09-fr-README.html
