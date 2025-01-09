@@ -22,6 +22,10 @@ Packages NixOS
 
 https://search.nixos.org/packages
 
+Reporter des problèmes avec les Packages
+
+https://github.com/NixOS/nixpkgs/issues
+
 Tutos fonctionnels
 
 https://nokomprendo.gitlab.io/posts/tuto_fonctionnel_45/2020-11-09-fr-README.html
