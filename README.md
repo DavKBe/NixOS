@@ -16,7 +16,7 @@ sudo nixos-rebuild switch && reboot
 
 ___________________________________________________________________________________________________________
 
-Références:
+Ressources:
 
 Tutos fonctionnels
 
