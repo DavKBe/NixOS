@@ -47,25 +47,32 @@ ________________________________________________________________________________
 Config
 ___________________________________________________________________________________________________________
 
-  # Navigateurs 
+  # Navigateurs # 
 
   ungoogled-chromium
-  #vivaldi
+  #vivaldi # broken
 
-  # Communicators
+  # Communicators #
 
-  protonmail-desktop
-  # whatsapp-for-mac
-  whatsapp-for-linux
-  telegram-desktop
+  protonmail-desktop   
+  # whatsapp-for-mac # broken
+  whatsapp-for-linux 
+  telegram-desktop  
 
-  # Dev
+  # Dev #
 
-  termius
+  termius 
   vscodium
 
-  # Divers
+  # Divers #
+
+  # Network #
 
   protonvpn-gui
+  
+  #Sync  #
 
+  resilio-sync
+  syncthing
+  syncthingtray  # Tray application and Dolphin/Plasma integration for Syncthing
 
