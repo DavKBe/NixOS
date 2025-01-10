@@ -43,37 +43,3 @@ Problème avec Vivaldi
 https://github.com/NixOS/nixpkgs/issues/309056
 
 
-___________________________________________________________________________________________________________
-# Config ( raw code )
-___________________________________________________________________________________________________________
-
-```nix
-  # Navigateurs # 
-
-  ungoogled-chromium
-  #vivaldi # broken
-
-  # Communicators #
-
-  protonmail-desktop   
-  # whatsapp-for-mac # broken
-  whatsapp-for-linux 
-  telegram-desktop  
-
-  # Dev #
-
-  termius 
-  vscodium
-
-  # Divers #
-
-  # Network #
-
-  protonvpn-gui
-  
-  #Sync  #
-
-  resilio-sync
-  syncthing
-  syncthingtray  # Tray application and Dolphin/Plasma integration for Syncthing
-```
