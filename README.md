@@ -16,7 +16,7 @@ sudo nixos-rebuild switch && reboot
 
 ___________________________________________________________________________________________________________
 
-Ressources:
+# Ressources:
 
 Packages NixOS
 
@@ -41,3 +41,31 @@ https://www.reddit.com/r/NixOS/comments/1e95b69/how_do_you_guys_organize_your_ni
 Problème avec Vivaldi
 
 https://github.com/NixOS/nixpkgs/issues/309056
+
+
+___________________________________________________________________________________________________________
+Config
+___________________________________________________________________________________________________________
+
+  # Navigateurs 
+
+  ungoogled-chromium
+  #vivaldi
+
+  # Communicators
+
+  protonmail-desktop
+  # whatsapp-for-mac
+  whatsapp-for-linux
+  telegram-desktop
+
+  # Dev
+
+  termius
+  vscodium
+
+  # Divers
+
+  protonvpn-gui
+
+
