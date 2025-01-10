@@ -26,9 +26,13 @@ Reporter des problèmes avec les Packages
 
 https://github.com/NixOS/nixpkgs/issues
 
-Tutos fonctionnels
+Tutos fonctionnel
 
 https://nokomprendo.gitlab.io/posts/tuto_fonctionnel_45/2020-11-09-fr-README.html
+
+Divers
+
+https://github.com/dustinlyons/nixos-config?tab=readme-ov-file
 
 Organiser les flakes
 
